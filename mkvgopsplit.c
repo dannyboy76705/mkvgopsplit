@@ -2,6 +2,9 @@
  * mkvgopsplit - split a video-only Matroska (MKV) file into one file per
  * GOP (split at every keyframe), and join such files back into one.
  *
+ * Copyright (c) 2026 Daniel Lee Witzel
+ * MIT License - see LICENSE.
+ *
  * Design notes (see conversation for rationale):
  *  - Only the Tracks header is duplicated into every split file. Every
  *    split file is itself a small valid Matroska file: [EBML][Segment

@@ -206,4 +206,4 @@ source.
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Use it, share it, modify it, no strings attached.
+MIT, © 2026 Daniel Lee Witzel — see [LICENSE](LICENSE). Use it, share it, modify it, no strings attached.
